@@ -1,0 +1,56 @@
+.titre{
+    color:#7c5b55;
+    font-family:'Roboto',sans-serif;
+    font-size: 250%;
+    text-align: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f4f4f4; /* Ajoutez une couleur de fond si nécessaire */
+    margin: 0;
+}
+
+header {
+    padding: 20px;
+    text-align: center;
+}
+
+.image {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px 0; /* Ajoutez une marge en haut et en bas des groupes d'images */
+}
+
+.image {
+    width: 250px;
+    margin: 10px; /* Espacement entre les images */
+    border: 2px solid #7c5b55; /* Ajoutez une bordure aux images si nécessaire */
+    border-radius: 5px; /* Ajoutez une bordure arrondie aux images si nécessaire */
+}
+
+.ligne{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px; /* Ajustez la marge entre les lignes d'images */
+}
+
+.image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+.image:hover {
+    transform: scale(1.1); /* Changez l'échelle de l'image au survol */
+}
+
+.photo{
+    position: fixed;
+    top: 0px;
+    right: 1130px;
+}

@@ -11,17 +11,16 @@ Ce projet est un site e-commerce permettant d'acheter des consoles, jeux et good
 - **Offrir une interface intuitive** avec un design soigné.
 
 ## Structure du Projet
-/ |-- projet/ # Contient les fichiers principaux | |-- index.php # Page d'accueil | |-- compte.php # Gestion du compte utilisateur | |-- inscription.php # Page d'inscription | |-- panier.php # Gestion du panier | |-- description.php # Détails des articles | |-- admin/ # Pages d'administration | |-- assets/ # Contient les styles CSS et JS | |-- images/ # Contient les images du site |-- database/ # Contient les fichiers SQL | |-- site_web.sql # Base de données |-- docs/ # Documentation du projet | |-- rapport.pdf # Rapport du projet |-- README.md # Documentation principale |-- config.php # Fichier de configuration de la BDD
+/ |-- projet/ # Contient les fichiers principaux 
+| |-- index.php # Page d'accueil 
+| |-- compte.php # Gestion du compte utilisateur | |-- inscription.php # Page d'inscription | |-- panier.php # Gestion du panier | |-- description.php # Détails des articles | |-- admin/ # Pages d'administration | |-- assets/ # Contient les styles CSS et JS | |-- images/ # Contient les images du site |-- database/ # Contient les fichiers SQL | |-- site_web.sql # Base de données |-- docs/ # Documentation du projet | |-- rapport.pdf # Rapport du projet |-- README.md # Documentation principale |-- config.php # Fichier de configuration de la BDD
 
-bash
-Copier
-Modifier
 
 ## Instructions d'Installation
 1. **Télécharger le projet**
    ```bash
-   git clone https://github.com/emmasvd2/data-IA-projet.git
-   cd data-IA-projet
+   git clone https://github.com/emmasvd2/Projet_Site_Web_PHP.git
+   cd Projet_Site_Web_PHP
    ```
    
 2. **Déployer le projet**
@@ -32,5 +31,5 @@ Modifier
 
 3. **Lancer le serveur local**
 
-Démarrer Apache et MySQL avec WAMP/Laragon.
-Accéder au site via http://localhost/projet/
+- Démarrer Apache et MySQL avec WAMP/Laragon.
+- Accéder au site via http://localhost/projet/

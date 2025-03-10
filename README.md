@@ -11,10 +11,10 @@ Ce projet est un site e-commerce permettant d'acheter des consoles, jeux et good
 - **Offrir une interface intuitive** avec un design soigné.
 
 ## Structure du Projet
-/
+
 - projet : Contient les fichiers principaux
--- compte.php
--- confirmation_commande.php
+-> compte.php
+   confirmation_commande.php
 -- consoles.php
 |   |-- deconnexion.php
 |   |-- description.php

@@ -13,70 +13,70 @@ Ce projet est un site e-commerce permettant d'acheter des consoles, jeux et good
 ## Structure du Projet
 
 - projet : Contient les fichiers principaux
--> compte.php
-   confirmation_commande.php
--- consoles.php
-|   |-- deconnexion.php
-|   |-- description.php
-|   |-- goodies.php
-|   |-- index.php
-|   |-- infos_compte.php
-|   |-- inscription.php
-|   |-- jeux.php
-|   |-- panier.php
-|   |-- compte.css
-|   |-- console.css
-|   |-- description1.css
-|   |-- goodies.css
-|   |-- index.css
-|   |-- infos_compte1.css
-|   |-- inscri.css
-|   |-- jeux.css
-|   |-- panier.css
-|-- |-- site_web.sql       # Base de données
-|-- README.md              # Documentation principale
-|-- docs/                  # Documentation du projet
-|-- images/                # Contient les images du site
-|   |-- consoles/
-|       |-- atari 2600.jpg
-|       |-- dreamcast.jpg
-|       |-- game boy.jpg
-|       |-- mega drive.png
-|       |-- nes.png
-|       |-- nintendo 64.jpg
-|       |-- ps1.png
-|       |-- super-nintendo.jpg
-|   |-- goodies/
-|       |-- lampe.jpg
-|       |-- mug.jpg
-|       |-- pikachu.jpg
-|       |-- porte-cle.jpg
-|       |-- sous-verre.jpg
-|       |-- stylo.jpg
-|       |-- sweat.jpg
-|       |-- t shirt.jpg
-|   |-- jeux/
-|       |-- Animal_Crossing.png
-|       |-- crash-bandicoot-3.jpg
-|       |-- resident-evil.jpg
-|       |-- sonic-hedgehog.jpg
-|       |-- street-fighter-II.jpg
-|       |-- super-mario-64.jpg
-|       |-- super-mario-bros-duck-hunt.jpg
-|       |-- tomb-raider.jpg
-|   |-- promotions/
-|       |-- GameCube.png
-|       |-- borne-arcade.jpg
-|       |-- casquette.jpg
-|       |-- gamecube.jpg
-|       |-- mug-play.jpg
-|       |-- premiere ds.jpg
-|       |-- pull mario.jpg
-|       |-- tapis-souri.jpg
-|       |-- xbox1.jpg
-|   |-- flèche.png
-|   |-- logo.png
-|   |-- maison.png
+   - compte.php
+   - confirmation_commande.php
+   - consoles.php
+   - deconnexion.php
+   - description.php
+   - goodies.php
+   - index.php
+   - infos_compte.php
+   - inscription.php
+   - jeux.php
+   - panier.php
+   - compte.css
+   - console.css
+   - description1.css
+   - goodies.css
+   - index.css
+   - infos_compte1.css
+   - inscri.css
+   - jeux.css
+   - panier.css
+- site_web.sql : Base de données
+- README.md    : Documentation principale
+    - images   : Contient les images du site
+        - consoles
+            - atari 2600.jpg
+            - dreamcast.jpg
+            - game boy.jpg
+            - mega drive.png
+            - nes.png
+            - nintendo 64.jpg
+            - ps1.png
+            - super-nintendo.jpg
+        - goodies
+            - lampe.jpg
+            - mug.jpg
+            - pikachu.jpg
+            - porte-cle.jpg
+            - sous-verre.jpg
+            - stylo.jpg
+            - sweat.jpg
+            - t shirt.jpg
+        - jeux
+            -  Animal_Crossing.png
+            - crash-bandicoot-3.jpg
+            - resident-evil.jpg
+            - sonic-hedgehog.jpg
+            - street-fighter-II.jpg
+            - super-mario-64.jpg
+            - super-mario-bros-duck-hunt.jpg
+            - tomb-raider.jpg
+        - promotions
+            - GameCube.png
+            - borne-arcade.jpg
+            - casquette.jpg
+            - gamecube.jpg
+            - mug-play.jpg
+            - premiere ds.jpg
+            - pull mario.jpg
+            - tapis-souri.jpg
+            - xbox1.jpg
+    - flèche.png
+    - logo.png
+    - maison.png
+
 
 ## Instructions d'Installation
 1. **Télécharger le projet**

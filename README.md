@@ -12,7 +12,7 @@ Ce projet est un site e-commerce permettant d'acheter des consoles, jeux et good
 
 ## Structure du Projet
 
-- projet : Contient les fichiers principaux
+- `projet` : Dossier principal
    - compte.php
    - confirmation_commande.php
    - consoles.php
@@ -33,10 +33,10 @@ Ce projet est un site e-commerce permettant d'acheter des consoles, jeux et good
    - inscri.css
    - jeux.css
    - panier.css
-- site_web.sql : Base de données
-- README.md    : Documentation principale
-    - images   : Contient les images du site
-        - consoles
+- `site_web.sql` : Base de données
+- `README.md`    : Documentation principale
+    - `images`   : Contient les images du site
+        - `consoles`
             - atari 2600.jpg
             - dreamcast.jpg
             - game boy.jpg
@@ -45,7 +45,7 @@ Ce projet est un site e-commerce permettant d'acheter des consoles, jeux et good
             - nintendo 64.jpg
             - ps1.png
             - super-nintendo.jpg
-        - goodies
+        - `goodies`
             - lampe.jpg
             - mug.jpg
             - pikachu.jpg
@@ -54,7 +54,7 @@ Ce projet est un site e-commerce permettant d'acheter des consoles, jeux et good
             - stylo.jpg
             - sweat.jpg
             - t shirt.jpg
-        - jeux
+        - `jeux`
             -  Animal_Crossing.png
             - crash-bandicoot-3.jpg
             - resident-evil.jpg
@@ -63,7 +63,7 @@ Ce projet est un site e-commerce permettant d'acheter des consoles, jeux et good
             - super-mario-64.jpg
             - super-mario-bros-duck-hunt.jpg
             - tomb-raider.jpg
-        - promotions
+        - `promotions`
             - GameCube.png
             - borne-arcade.jpg
             - casquette.jpg
